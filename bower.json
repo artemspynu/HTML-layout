@@ -1,0 +1,14 @@
+{
+  "name": "dz6",
+  "authors": [
+    "Artem"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "jquery-ui": "^1.12.1"
+  }
+}
